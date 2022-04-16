@@ -30,13 +30,4 @@ I didn't understand the logging part and I didn't implement it since it was not 
 
 Git
 -
-1. Link către repo-ul de git
-
-Ce să **NU**
--
-* Detalii de implementare despre fiecare funcție/fișier în parte
-* Fraze lungi care să ocolească subiectul în cauză
-* Răspunsuri și idei neargumentate
-* Comentarii (din cod) și *TODO*-uri
-
-Acest model de README a fost adaptat după [exemplul de README de la SO](https://github.com/systems-cs-pub-ro/so/blob/master/assignments/README.example.md).
+https://github.com/VladCondu/Marketplace
