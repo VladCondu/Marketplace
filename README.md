@@ -4,7 +4,7 @@ Group: 332CC
 # Homework 1 - Marketplace
 
 
-1. Chosen solution:
+Chosen solution:
 -
 
 The solution represents a basic implementation of the producers / consumers problem in python multithreading.
